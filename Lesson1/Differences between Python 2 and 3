@@ -1,8 +1,0 @@
-Python2: We use raw_input to fetch input
-Python3: We use input function.
-
-Python2: We would use xrange to define some range
-Python3: We would use range() to define.
-
-Python2:print would not need brackets.
-Python3:print would use brackets

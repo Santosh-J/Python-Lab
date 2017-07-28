@@ -1,0 +1,10 @@
+Breathing!Hey! how are you?
+I am good!
+Please tell me where could I go for groceries.
+For groceries go to "Save a lot"
+Thanks!
+
+
+To understand tensors well, it’s good to have some working knowledge of linear algebra and vector calculus.
+ You already read in the introduction that tensors are implemented in TensorFlow as multidimensional data arrays,
+but some more introduction is maybe needed in order to completely grasp tensors and their use in machine learning.
